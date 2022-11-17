@@ -8,4 +8,4 @@ Run the attached [SQL DDL scripts](https://github.com/terrymandin/AzureIoTConnec
 
 ### Azure Function
 
-Deploy the Azure function app.  
+Deploy the [Azure function app](AzureIoTConnectionMonitoring.csproj).  
